@@ -2,6 +2,8 @@
 
 **Daniela Gerardo Mondragon**
 ## Aprendiendo un poco de VIM
-## Curso de Git y Github
+**Curso de Git y Github**
 
 [Sitio oficial UAdeO](https://uadeo.mx)
+
+> Este cambio fue ralizado desde Codespace.
